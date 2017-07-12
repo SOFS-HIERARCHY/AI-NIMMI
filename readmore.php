@@ -35,7 +35,7 @@
         <div class="page-title about-title text-center">
           <h2 class="text-extra-bold white text-uppercase">About Us</h2>
           <div class="page-location text-center display-ib">
-            <span class="ubuntu fz-14 green-5c">Home<i class="gray-e9">/</i>Pages<i class="gray-e9">/</i>About</span>
+            <span class="ubuntu fz-14 green-5c">Home   <i class="gray-e9">/</i>   Pages   <i class="gray-e9">/</i>   About</span>
           </div>
         </div>
 
@@ -45,39 +45,15 @@
           <div class="row">
             <div class="col-md-6 cancer">
               <h4 class="d-black lh-33 h-sep">History</h4>
-              <p class="lh-28 gray-777 fz-15 mt-30">'ANBU ILLAM' trust is made on this 30th day of May 2001 between Thiru J.VENKATACHALAM, S/O S.A.Jeyeramalingam aged about 61 years residing at Samudram (Post), Chinnapampatti (Via), Idappadi (Taluk), Salem (District), Tamilnadu here in after called 'Author of the Trust' of the one part</p>
-              <p class="fz-15 gray-777 lh-28 mt-15">Thirumathi V.PADMAJOTHI aged about 57 years W/O J.Venkatachalam, Samudram (Post), Chinnapampatti (Via), Idappadi (Taluk), Salem (District), Tamilnadu representing the first trustees of the second part.</p>
-	          <p class="fz-15 gray-777 lh-28 mt-15">Whereas the Author of the trust is desirous of creating public charitable trust to carry out certain charitable objects hereinafter mentioned for the benefit of the General public.
-              </p>
-              
-              <div class="mt-50">
-                 <a href="readmore.php" class="btn-green-br">Read More</a>
+              <p class="fz-15 gray-777 lh-28 mt-15">It is situated in the mid set of so many shady trees, calm and polite atmosphere free from air pollution and water pollution. Protected drinking water, water taps for bathing and washing clothes.</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">Night lamps in and around the blocks, refreshment by hearing and seeing the Radio and T.V programs including all these and Magazines are also available to lead a hale and healthy life</p>
+               </p>
               </div>
-            </div>
-                   
-            <div class="container">
-              <img class="img-responsive pull-right t-contact-img" src="img/anbu.jpg" alt="">
-              </div>
-              </div>
-               </div>
-               </section>
-               <section class="mt-50 about-us-main mb-50">
-              <div class="container">
-            <div class="col-md-6 cancer">
-                  <h4 class="d-black lh-33 h-sep">Board of Trustees</h4>
-                      <p class="lh-28 gray-777 fz-15 mt-30">Thiru. J.Venkatachalam, S/o.S.Jeyaramalingam, aged about 61 years,</p>
-                      <p class="fz-15 lh-28">Tmt. V.Padmajothi, W/O.J.Venkatachalam, aged about 57 years</p>
-                      <p class="fz-15 lh-28">Thiru. V.Arulmozhi, S/o J.Venkatachalam, aged about 35 years</p>
-                      <p class="fz-15 lh-28">Tmt. A.Gomathi, W/o V.Anbumozhi, aged about 27 years</p>
-                      <p class="fz-15 lh-28">Tmt. S.Vijayalakashmi, W/o.S.Sivanathan, aged about 45 years</p>
-                      
-                   
-                </div>
-                  </div>
-                  </div>
-                </div>
-              </div>
-            </section>  
+             </div>
+          </div>
+       
+
+      </section>  
         <section class="trust-o">
             <div class="container">
                 <div class="row">

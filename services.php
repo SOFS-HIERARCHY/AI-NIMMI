@@ -33,16 +33,16 @@
         </header>
         
         <div class="page-title causes-title text-center">
-          <h2 class="text-extra-bold white text-uppercase">Good Cause</h2>
+          <h2 class="text-extra-bold white text-uppercase">Services</h2>
           <div class="page-location direct text-center display-ib">
-            <span class="ubuntu fz-14 green-5c">Home   <i class="gray-e9">/</i>   Causes</span>
+            <span class="ubuntu fz-14 green-5c">Home   <i class="gray-e9">/</i>   Services</span>
           </div>
         </div>
         <section class="recent-causes">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <h3 class="text-uppercase black h-sep">Recent <span class="text-ultra-bold">Causes</span> </h3>
+                        <h3 class="text-uppercase black h-sep">Recent <span class="text-ultra-bold">Services</span> </h3>
                         <p class="fz-16 gray-666 mt-50">Our charity helps those people who have no hope</p>
                     </div>
                 </div>

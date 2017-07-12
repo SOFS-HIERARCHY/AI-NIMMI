@@ -49,8 +49,8 @@
                                         <ul class="nav navbar-nav">
                                           <li class="active"><a href="home.php">Home</a></li>
                                           <li><a class="" href="about.php">About Us</a></li>
-                                          <li><a class="" href="causes.php">Causes</a></li>
-                                          <li><a class="" href="events.php">Events</a></li>
+                                          <li><a class="" href="services.php">Services</a></li>
+                                          <li><a class="" href="facilities.php">Facilities</a></li>
                                           <li><a class="" href="gallery.php">Gallery</a></li>
                                           <li><a class="green-nav" href="contact.php">Contact</a></li>
                                         </ul>
