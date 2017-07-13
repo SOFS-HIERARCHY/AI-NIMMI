@@ -35,7 +35,7 @@
         <div class="page-title about-title text-center">
           <h2 class="text-extra-bold white text-uppercase">About Us</h2>
           <div class="page-location text-center display-ib">
-          <span class="ubuntu fz-14 green-5c">Home  <i class="gray-e9">/</i>  Pages  <i class="gray-e9">/</i>  About</span>
+          <span class="ubuntu fz-14 green-5c">Home<i class="gray-e9"> / </i>Pages<i class="gray-e9"> / </i>About</span>
           </div>
         </div>
 

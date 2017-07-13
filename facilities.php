@@ -34,7 +34,7 @@
         <div class="page-title events-title text-center">
           <h2 class="text-extra-bold white text-uppercase">Facilities</h2>
           <div class="page-location direct text-center display-ib">
-            <span class="ubuntu fz-14 green-5c">Home<i class="gray-e9">/</i>Facilities</span>
+            <span class="ubuntu fz-14 green-5c">Home<i class="gray-e9"> / </i>Facilities</span>
           </div>
         </div>
 

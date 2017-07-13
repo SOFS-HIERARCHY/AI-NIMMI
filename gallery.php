@@ -35,7 +35,7 @@
         <div class="page-title gallery-title text-center">
           <h2 class="text-extra-bold white text-uppercase">Gallery</h2>
           <div class="page-location direct text-center display-ib">
-            <span class="ubuntu fz-14 green-5c">Home   <i class="gray-e9">/</i>   Gallery</span>
+            <span class="ubuntu fz-14 green-5c">Home<i class="gray-e9"> / </i>Gallery</span>
           </div>
         </div>
 
@@ -199,7 +199,7 @@
             </div>
             <div class="row">
                 <div class="col-md-12 text-center mt-100 view-more">
-                    <a href="#" class="btn-prime tri-b fz-15">View More</a>
+                    <a href="readmore.php" class="btn-prime tri-b fz-15">View More</a>
                 </div>
             </div>
           </div>

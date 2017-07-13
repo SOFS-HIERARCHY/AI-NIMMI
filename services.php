@@ -4,7 +4,7 @@
 <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Anbu Home-Causes </title>
+        <title>Anbu Home-Services </title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -35,7 +35,7 @@
         <div class="page-title causes-title text-center">
           <h2 class="text-extra-bold white text-uppercase">Services</h2>
           <div class="page-location direct text-center display-ib">
-            <span class="ubuntu fz-14 green-5c">Home   <i class="gray-e9">/</i>   Services</span>
+            <span class="ubuntu fz-14 green-5c">Home<i class="gray-e9"> / </i>Services</span>
           </div>
         </div>
         <section class="mt-150 about-us-main mb-150">
