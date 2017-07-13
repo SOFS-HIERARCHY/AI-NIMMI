@@ -4,7 +4,11 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-3">
                             <img class="img-responsive" src="images/logo1.png" alt="">
-                            <p class="gray-aaa mt-20">Eaque ipsa quae ab illo inventore veris quasi architecto beatae vitae dicta expenim ipsam voluptatem.</p>
+                            <p class="gray-aaa mt-20">Our Chairman's Message</p>
+                            <p class="gray-aaa mt-20">"Old age cannot be neglected. It should be respected and regarded love and care to be needed.</p>
+                            <p class="gray-aaa mt-20">Mercy is twice blessed. It gives pleasure to both the giver and the receiver"</p>
+                            <p class="gray-aaa mt-20">"It's not how old you are, its how you are old"</p>
+                            
                             <div class="footer-social list-inline mt-25">
                                 <a href="www.facebook.com"><i class="fa fa-facebook"></i></a>
                                 <a href="www.twitter.com"><i class="fa fa-twitter"></i></a>
