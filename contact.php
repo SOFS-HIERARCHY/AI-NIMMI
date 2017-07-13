@@ -106,8 +106,7 @@
           </div>
         </section>
         <div class="container-fluid no-padding mt-150">
-          <div id="map"></div>
-        </div>
+               </div>
 
 
 

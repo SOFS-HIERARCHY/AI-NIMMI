@@ -38,12 +38,39 @@
             <span class="ubuntu fz-14 green-5c">Home   <i class="gray-e9">/</i>   Services</span>
           </div>
         </div>
+        <section class="mt-150 about-us-main mb-150">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 cancer">
+              <h4 class="d-black lh-33 h-sep">Facilities</h4>
+              <p class="fz-15 gray-777 lh-28 mt-30">A clean and hygienic atmosphere</p> 
+              <p class="fz-15 gray-777 lh-28 mt-15">Complete nursing care if required</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">Regular Doctor visits including Psychiatric consultancy</p>
+	          <p class="fz-15 gray-777 lh-28 mt-15">Adequate medical care, including immediate hospitalisation if necessary</p>
+	          <p class="fz-15 gray-777 lh-28 mt-15">Compassionate handling, understanding and kindness</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">Nutritious food as per dietary requirements</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">Calm atmosphere</p>
+			  <p class="fz-15 gray-777 lh-28 mt-15">Routine medical check-ups including doctor consultations</p>
+			  <p class="fz-15 gray-777 lh-28 mt-15">Water beds whenever necessary</p>
+			  <p class="fz-15 gray-777 lh-28 mt-15">Supply and dispensing of medicines at required intervals</p>
+			  <p class="fz-15 gray-777 lh-28 mt-15">Attendants at the time of hospital admissions</p>
+			  <p class="fz-15 gray-777 lh-28 mt-15">A willing ear to handle emotional needs / counseling,</p>
+			  <p class="fz-15 gray-777 lh-28 mt-15">Occupational therapy under expert guidance</p>
+			  <p class="fz-15 gray-777 lh-28 mt-15">Ambulance Service for immediate shifting to hospital in case of emergency.</p>
+			  <p class="fz-15 gray-777 lh-28 mt-15">Bedsores care, etc.</p>
+			  <p class="fz-15 gray-777 lh-28 mt-15">Counseling by professionals and</p>
+			  <p class="fz-15 gray-777 lh-28 mt-15">Yoga and Pranayama exercises.</p>
+              </div>    
+              </div>
+               </div>
+               </section>
+                    
         <section class="recent-causes">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <h3 class="text-uppercase black h-sep">Recent <span class="text-ultra-bold">Services</span> </h3>
-                        <p class="fz-16 gray-666 mt-50">Our charity helps those people who have no hope</p>
+                        <p class="fz-16 gray-666 mt-40">Our charity helps those people who have no hope</p>
                     </div>
                 </div>
                 <div class="row mt-20">

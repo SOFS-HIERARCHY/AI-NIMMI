@@ -43,7 +43,8 @@
           <div class="row">
             <div class="col-md-6 cancer">
               <h4 class="d-black lh-33 h-sep">Facilities</h4>
-              <p class="lh-28 gray-777 fz-15 mt-30">Providing free living, free meals and free dresses for minimum twenty-five
+              <p class="fz-15 gray-777 lh-28 mt-30">Anbu illam Trust is attached to reputed, well-established hospitals under the guidance of a variety of specialists, providing consultants in all departments. Weekly medical visits by doctors to the Home enable the residents to maintain good physical health. For specialized or acute medical care the resident is shifted to the hospital in our own ambulance with our own attendants for treatment.</p> 
+              <p class="lh-28 gray-777 fz-15 mt-15">Providing free living, free meals and free dresses for minimum twenty-five
               aged citizens those who are completely neglected and ill treated by their family members and society.</p>
               <p class="fz-15 gray-777 lh-28 mt-15">By giving free basic education to the encircling aged citizens to make them to learn, read and write.
               </p>
@@ -52,12 +53,8 @@
 	          <p class="fz-15 gray-777 lh-28 mt-15">To improve the economic and social standards of youngsters as well as old
                persons by not only framing but also forming 'Small self-finance groups' to make them to inspire and involve independently by doing some small scale industries like production of cotton, sheep sheltering, dairy farms etc.</p>
               <p class="fz-15 gray-777 lh-28 mt-15">Giving them proper training and practice to maintain the environmental factors in good condition to lead healthy life by everybody.</p>
-              </div>
-                   
-            <div class="container">
-              <img class="img-responsive pull-right t-contact-img" src="img/11.jpg" alt="">
-              </div>
-              </div>
+               </div>    
+               </div>
                </div>
                </section>
                      

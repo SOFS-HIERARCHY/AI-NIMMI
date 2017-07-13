@@ -64,9 +64,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 overcoming">
-                        <h4 class="d-black lh-33 h-sep">Overcoming Cancer Were Nothing Compared to My Latest Struggle</h4>
-                        <p class="lh-28 mt-50 fz-15">We finally got a piece of the pie. we might as well say Would you be mine? Could you be mine? Won't you be my neighbor We're gonna do it. On your mark get set and go now  Got a dream and we just know. </p>
-                        <p class="lh-28 mt-20 fz-15">Now we're gonna make our dream come true. You wanna be where you can see our troubles are all the same. You wanna be where everybody.</p>
+                        <p class="lh-28 gray-777 fz-15 mt-30">'ANBU ILLAM' trust is made on this 30th day of May 2001 between Thiru J.VENKATACHALAM, S/O S.A.Jeyeramalingam aged about 61 years residing at Samudram (Post), Chinnapampatti (Via), Idappadi (Taluk), Salem (District), Tamilnadu here in after called 'Author of the Trust' of the one part</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">Thirumathi V.PADMAJOTHI aged about 57 years W/O J.Venkatachalam, Samudram (Post), Chinnapampatti (Via), Idappadi (Taluk), Salem (District), Tamilnadu representing the first trustees of the second part.</p>
                     </div>
                     <div class="col-md-6 col-sm-6">
                         <div class="count-down">
