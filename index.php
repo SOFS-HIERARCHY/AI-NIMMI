@@ -64,8 +64,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 overcoming">
-                        <p class="lh-28 gray-777 fz-15 mt-30">'ANBU ILLAM' trust is made on this 30th day of May 2001 between Thiru J.VENKATACHALAM, S/O S.A.Jeyeramalingam aged about 61 years residing at Samudram (Post), Chinnapampatti (Via), Idappadi (Taluk), Salem (District), Tamilnadu here in after called 'Author of the Trust' of the one part</p>
-              <p class="fz-15 gray-777 lh-28 mt-15">Thirumathi V.PADMAJOTHI aged about 57 years W/O J.Venkatachalam, Samudram (Post), Chinnapampatti (Via), Idappadi (Taluk), Salem (District), Tamilnadu representing the first trustees of the second part.</p>
+                           <p class="lh-28 gray-777 fz-15 mt-30">Anbu Illam Trust, Home for the Aged was conceived with the purpose of serving aged peoples in the sunset years of their lives. This was visualized as a residence with a homely atmosphere so that the Senior Citizens would not feel uprooted from the surroundings to which they were accustomed, and to fill their remaining years with much-needed comfort, care and attention. With these objectives in mind, Anbu Illam Trust Home for the Aged Trust started their Home for aged peoples in May 2001, at J.V Farms , Chittrapalayam, Samudram(po), Salem(DT)-636306.</p>
+                           <p class="fz-15 gray-777 lh-28 mt-15">'ANBU ILLAM' trust is made on this 30th day of May 2001 between Thiru J.VENKATACHALAM, S/O S.A.Jeyeramalingam aged about 61 years residing at Samudram (Post), Chinnapampatti (Via), Idappadi (Taluk), Salem (District), Tamilnadu here in after called 'Author of the Trust' of the one part</p>
+                           <p class="fz-15 gray-777 lh-28 mt-15">Thirumathi V.PADMAJOTHI aged about 57 years W/O J.Venkatachalam, Samudram (Post), Chinnapampatti (Via), Idappadi (Taluk), Salem (District), Tamilnadu representing the first trustees of the second part.</p>
                     </div>
                     <div class="col-md-6 col-sm-6">
                         <div class="count-down">
