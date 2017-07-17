@@ -41,7 +41,9 @@
       <section class="mt-150 about-us-main mb-150">
         <div class="container">
           <div class="row">
-            <div class="col-md-6 cancer">
+            <div class="col-sm-6 col-md-12 line1" ></div><br>
+
+                <div class="col-md-12">
               <h4 class="d-black lh-33 h-sep">Facilities</h4>
               <p class="fz-15 gray-777 lh-28 mt-30">Anbu illam Trust is attached to reputed, well-established hospitals under the guidance of a variety of specialists, providing consultants in all departments. Weekly medical visits by doctors to the Home enable the residents to maintain good physical health. For specialized or acute medical care the resident is shifted to the hospital in our own ambulance with our own attendants for treatment.</p> 
               <p class="lh-28 gray-777 fz-15 mt-15">Providing free living, free meals and free dresses for minimum twenty-five

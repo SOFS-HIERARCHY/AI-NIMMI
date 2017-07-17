@@ -22,7 +22,7 @@
                                 <li><a href="about.php">About Us</a></li>
                                 <li><a href="#">Meet The Team</a></li>
                                 <li><a href="#">Volunteers</a></li>
-                                <li><a href="#">Service Provided</a></li>
+                                <li><a href="services.php">Service Provided</a></li>
                                 <li><a href="#">Latest News</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>
                             </ul>
