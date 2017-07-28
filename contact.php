@@ -1,4 +1,7 @@
 <!doctype html>
+<?php
+$page_id="contact";
+?>
 <html class="no-js" lang="">
     
 <head>

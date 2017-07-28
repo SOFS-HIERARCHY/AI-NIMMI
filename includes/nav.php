@@ -19,12 +19,12 @@
                         <div class="col-md-2 col-md-offset-1 col-sm-3" >
                             <h6 class="text-uppercase text-bold gray-e8 bb display-ib">useful links</h6>
                             <ul class="list-unstyled useful-links">
-                                <li><a href="about.php">About Us</a></li>
-                                <li><a href="#">Meet The Team</a></li>
-                                <li><a href="#">Volunteers</a></li>
-                                <li><a href="services.php">Service Provided</a></li>
-                                <li><a href="#">Latest News</a></li>
-                                <li><a href="contact.php">Contact Us</a></li>
+                                <li><a>About Us</a></li>
+                                <li><a>Meet The Team</a></li>
+                                <li><a>Volunteers</a></li>
+                                <li><a>Service Provided</a></li>
+                                <li><a>Latest News</a></li>
+                                <li><a>Contact Us</a></li>
                             </ul>
                         </div>
                        

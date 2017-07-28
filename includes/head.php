@@ -45,14 +45,26 @@
                                       <span class="icon-bar"></span>
                                     </button>
                                   </div>
+                                  
                                   <div id="navbar" class="navbar-collapse collapse no-margin no-padding">
                                         <ul class="nav navbar-nav">
-                                          <li class="active"><a href="home.php">Home</a></li>
-                                          <li><a class="" href="about.php">About Us</a></li>
-                                          <li><a class="" href="services.php">Services</a></li>
-                                          <li><a class="" href="facilities.php">Facilities</a></li>
-                                          <li><a class="" href="gallery.php">Gallery</a></li>
-                                          <li><a class="green-nav" href="contact.php">Contact</a></li>
+                                          <li class="menu-item-has-children <?php if($page_id == "home"){ echo "active"; } ?>">
+                                          <a href="home.php">Home</a></li>
+                                          
+                                          <li class="menu-item-has-children <?php if($page_id == "about"){ echo "active"; } ?>"> 
+                                          <a href="about.php">About Us</a></li>
+                                          
+                                          <li class="menu-item-has-children <?php if($page_id == "services"){ echo "active"; } ?>">
+                                          <a href="services.php">Services</a></li>
+                                          
+                                          <li class="menu-item-has-children <?php if($page_id == "facilities"){ echo "active"; } ?>">
+                                          <a href="facilities.php">Facilities</a></li>
+                                          
+                                          <li class="menu-item-has-children <?php if($page_id == "gallery"){ echo "active"; } ?>">
+                                          <a href="gallery.php">Gallery</a></li>
+                                          
+                                          <li class="menu-item-has-children <?php if($page_id == "contact"){ echo "active"; } ?>">
+                                          <a href="contact.php">Contact</a></li>
                                         </ul>
                                   </div><!--/.nav-collapse -->
                             </nav>

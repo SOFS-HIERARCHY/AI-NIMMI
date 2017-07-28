@@ -1,10 +1,13 @@
 <!doctype html>
+<?php
+$page_id="facilities";
+?>
 <html class="no-js" lang="">
     
 <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Anbu Home-Events</title>
+        <title>Anbu Home-Facilities</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
