@@ -35,7 +35,7 @@
         <div class="page-title about-title text-center">
           <h2 class="text-extra-bold white text-uppercase">About Us</h2>
           <div class="page-location text-center display-ib">
-            <span class="ubuntu fz-14 green-5c">Home   <i class="gray-e9">/</i>   Pages   <i class="gray-e9">/</i>   About</span>
+            <span class="ubuntu fz-14 green-5c">Home<i class="gray-e9"> / </i>About</span>
           </div>
         </div>
 
@@ -43,7 +43,7 @@
       <section class="mt-150 about-us-main mb-150">
         <div class="container">
           <div class="row">
-            <div class="col-md-6 cancer">
+            <div class="col-md-12">
               <h4 class="d-black lh-33 h-sep">PURPOSE AND OBJECTIVES</h4>
               <p class="fz-15 gray-777 lh-28 mt-30">The objectives of the trust shall be as follow and shall be confined to the territory of India.</p>
               <p class="fz-15 gray-777 lh-28 mt-15">1)	To render services in field of Education, Medical relief and relief to the poor irrespective of Caste, Creed, Religion or Language.</p>
@@ -52,6 +52,21 @@
               <p class="fz-15 gray-777 lh-28 mt-15">4)	To establish, maintain and run orphanage homes to provide shelter relief and help to the poor, needy, orphaned and destitute aged persons, orphan children and widows.</p>
               <p class="fz-15 gray-777 lh-28 mt-15">5)	To grant relief and assistance to the needy victims during natural calamities such as famine, earthquake, flood, fire, pestilence etc. and to give donations and other assistance to institutions, establishments or persons engaged in such relief work.</p>
               <p class="fz-15 gray-777 lh-28 mt-15">6)	To undertake community development projects in urban and rural areas.</p>
+              </div>
+             </div>
+          </div>
+          </section>
+          
+          <section class="mt-100 about-us-main mb-100">
+          <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h4 class="d-black lh-33 h-sep">NATURE OF WORK</h4>
+              <p class="fz-15 gray-777 lh-28 mt-30">The nature of the trust shall be as follows:</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">1)	The nature of the trust shall be a public charitable trust having no commercial or profit motive.</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">2)	The benefits of the trust shall be open to all section of public of India without any regard for religion, caste, creed, sex, etc.</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">3)	The trust property including its funds and income shall be applied solely towards the promotion of the purpose for which this trust is established and no portion of it shall be for payments to the trustees by way of profits.</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">4)	It is expressly declared that no part of the trust property or it income or any accretion there to shall be applied for any purpose outside India and no charitable activities of the trust shall be carried out outside India.</p>
               </div>
              </div>
           </div>

@@ -52,11 +52,7 @@ $page_id="about";
               <p class="fz-15 gray-777 lh-28 mt-15">Thirumathi V.PADMAJOTHI aged about 57 years W/O J.Venkatachalam, Samudram (Post), Chinnapampatti (Via), Idappadi (Taluk), Salem (District), Tamilnadu representing the first trustees of the second part.</p>
 	          <p class="fz-15 gray-777 lh-28 mt-15">Whereas the Author of the trust is desirous of creating public charitable trust to carry out certain charitable objects hereinafter mentioned for the benefit of the General public.
               </p>
-              
-              <div class="mt-50">
-                 <a href="readmore.php" class="btn-green-br">Read More</a>
               </div>
-            </div>
                    
             <div class="container">
               <img class="img-responsive pull-right t-contact-img" src="img/anbu.jpg" alt="">
@@ -64,6 +60,38 @@ $page_id="about";
               </div>
                </div>
                </section>
+               <section class="mt-150 about-us-main mb-150">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h4 class="d-black lh-33 h-sep">PURPOSE AND OBJECTIVES</h4>
+              <p class="fz-15 gray-777 lh-28 mt-30">The objectives of the trust shall be as follow and shall be confined to the territory of India.</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">1)	To render services in field of Education, Medical relief and relief to the poor irrespective of Caste, Creed, Religion or Language.</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">2)	To work for the all upliftment of the aged persons and inspire them to face all challenge of the old-age.</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">3)	To establish maintained and run student ship, scholarships and render other kind of aid to students including supply of books, stipends medals and other incentives to study, without and distinction of caste ,color ,race, creed or sex.</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">4)	To establish, maintain and run orphanage homes to provide shelter relief and help to the poor, needy, orphaned and destitute aged persons, orphan children and widows.</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">5)	To grant relief and assistance to the needy victims during natural calamities such as famine, earthquake, flood, fire, pestilence etc. and to give donations and other assistance to institutions, establishments or persons engaged in such relief work.</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">6)	To undertake community development projects in urban and rural areas.</p>
+              </div>
+             </div>
+          </div>
+          </section>
+          
+          <section class="mt-100 about-us-main mb-100">
+          <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h4 class="d-black lh-33 h-sep">NATURE OF WORK</h4>
+              <p class="fz-15 gray-777 lh-28 mt-30">The nature of the trust shall be as follows:</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">1)	The nature of the trust shall be a public charitable trust having no commercial or profit motive.</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">2)	The benefits of the trust shall be open to all section of public of India without any regard for religion, caste, creed, sex, etc.</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">3)	The trust property including its funds and income shall be applied solely towards the promotion of the purpose for which this trust is established and no portion of it shall be for payments to the trustees by way of profits.</p>
+              <p class="fz-15 gray-777 lh-28 mt-15">4)	It is expressly declared that no part of the trust property or it income or any accretion there to shall be applied for any purpose outside India and no charitable activities of the trust shall be carried out outside India.</p>
+              </div>
+             </div>
+          </div>
+          </section>  
+               
                <section class="mt-50 about-us-main mb-50">
               <div class="container">
             <div class="col-md-6 cancer">
@@ -128,125 +156,6 @@ $page_id="about";
             </div>
         </section>
         
-        <section class="testimonials mt-150 mb-150">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <h3 class=" black h-sep">Words From<span class="text-ultra-bold"> Our Clients</span> </h3>
-                        <p class="fz-16 gray-666 mt-50">Our charity helps those people who have no hope</p>
-                    </div>
-                </div>
-                <div class="row mt-100">
-                    <div class="col-md-12">
-                        <div class="test-sldier">
-                            <div class="item">
-                                <div class="test-img display-ib position-r pull-left">
-                                    <img class="img-responsive display-ib" src="img/test1.jpg" alt="">
-                                </div>
-                                <div class="display-ib pull-left test-text">
-                                    <img src="img/quote-open.png" alt="">
-                                    <h4 class="fz-17 d-black text-bold mt-30">Paul walker</h4>
-                                    <h5 class="fz-15 green-5c mt-10">CEO & Founder</h5>
-                                    <p class="mt-25">We finally got a piece of the pie.  Might as well say Would you be mine Could be you be mine? Won't you be my neighbor We're gonna do it. On your Got a dream and we just know. </p>
-                                     <img class="pull-right mt-30" src="img/quote-close.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="test-img display-ib position-r pull-left">
-                                    <img class="img-responsive display-ib" src="img/test2.jpg" alt="">
-                                </div>
-                                <div class="display-ib pull-left test-text">
-                                    <img src="img/quote-open.png" alt="">
-                                    <h4 class="fz-17 d-black text-bold mt-30">Paul walker</h4>
-                                    <h5 class="fz-15 green-5c mt-10">CEO & Founder</h5>
-                                    <p class="mt-25">We finally got a piece of the pie.  Might as well say Would you be mine Could be you be mine? Won't you be my neighbor We're gonna do it. On your Got a dream and we just know. </p>
-                                     <img class="pull-right mt-30" src="img/quote-close.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="test-img display-ib position-r pull-left">
-                                    <img class="img-responsive display-ib" src="img/test1.jpg" alt="">
-                                </div>
-                                <div class="display-ib pull-left test-text">
-                                    <img src="img/quote-open.png" alt="">
-                                    <h4 class="fz-17 d-black text-bold mt-30">Paul walker</h4>
-                                    <h5 class="fz-15 green-5c mt-10">CEO & Founder</h5>
-                                    <p class="mt-25">We finally got a piece of the pie.  Might as well say Would you be mine Could be you be mine? Won't you be my neighbor We're gonna do it. On your Got a dream and we just know. </p>
-                                     <img class="pull-right mt-30" src="img/quote-close.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="test-img display-ib position-r pull-left">
-                                    <img class="img-responsive display-ib" src="img/test2.jpg" alt="">
-                                </div>
-                                <div class="display-ib pull-left test-text">
-                                    <img src="img/quote-open.png" alt="">
-                                    <h4 class="fz-17 d-black text-bold mt-30">Paul walker</h4>
-                                    <h5 class="fz-15 green-5c mt-10">CEO & Founder</h5>
-                                    <p class="mt-25">We finally got a piece of the pie.  Might as well say Would you be mine Could be you be mine? Won't you be my neighbor We're gonna do it. On your Got a dream and we just know. </p>
-                                     <img class="pull-right mt-30" src="img/quote-close.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="test-img display-ib position-r pull-left">
-                                    <img class="img-responsive display-ib" src="img/test1.jpg" alt="">
-                                </div>
-                                <div class="display-ib pull-left test-text">
-                                    <img src="img/quote-open.png" alt="">
-                                    <h4 class="fz-17 d-black text-bold mt-30">Paul walker</h4>
-                                    <h5 class="fz-15 green-5c mt-10">CEO & Founder</h5>
-                                    <p class="mt-25">We finally got a piece of the pie.  Might as well say Would you be mine Could be you be mine? Won't you be my neighbor We're gonna do it. On your Got a dream and we just know. </p>
-                                     <img class="pull-right mt-30" src="img/quote-close.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="test-img display-ib position-r pull-left">
-                                    <img class="img-responsive display-ib" src="img/test2.jpg" alt="">
-                                </div>
-                                <div class="display-ib pull-left test-text">
-                                    <img src="img/quote-open.png" alt="">
-                                    <h4 class="fz-17 d-black text-bold mt-30">Paul walker</h4>
-                                    <h5 class="fz-15 green-5c mt-10">CEO & Founder</h5>
-                                    <p class="mt-25">We finally got a piece of the pie.  Might as well say Would you be mine Could be you be mine? Won't you be my neighbor We're gonna do it. On your Got a dream and we just know. </p>
-                                     <img class="pull-right mt-30" src="img/quote-close.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="test-img display-ib position-r pull-left">
-                                    <img class="img-responsive display-ib" src="img/test1.jpg" alt="">
-                                </div>
-                                <div class="display-ib pull-left test-text">
-                                    <img src="img/quote-open.png" alt="">
-                                    <h4 class="fz-17 d-black text-bold mt-30">Paul walker</h4>
-                                    <h5 class="fz-15 green-5c mt-10">CEO & Founder</h5>
-                                    <p class="mt-25">We finally got a piece of the pie.  Might as well say Would you be mine Could be you be mine? Won't you be my neighbor We're gonna do it. On your Got a dream and we just know. </p>
-                                     <img class="pull-right mt-30" src="img/quote-close.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="test-img display-ib position-r pull-left">
-                                    <img class="img-responsive display-ib" src="img/test2.jpg" alt="">
-                                </div>
-                                <div class="display-ib pull-left test-text">
-                                    <img src="img/quote-open.png" alt="">
-                                    <h4 class="fz-17 d-black text-bold mt-30">Paul walker</h4>
-                                    <h5 class="fz-15 green-5c mt-10">CEO & Founder</h5>
-                                    <p class="mt-25">We finally got a piece of the pie.  Might as well say Would you be mine Could be you be mine? Won't you be my neighbor We're gonna do it. On your Got a dream and we just know. </p>
-                                     <img class="pull-right mt-30" src="img/quote-close.png" alt="">
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-
-
-
         <footer>
           <?php include_once './includes/nav.php'; ?>
             <!-- Right side column. Contains the navbar and content of the page -->

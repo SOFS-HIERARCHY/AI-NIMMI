@@ -57,9 +57,7 @@
                                           <li class="menu-item-has-children <?php if($page_id == "services"){ echo "active"; } ?>">
                                           <a href="services.php">Services</a></li>
                                           
-                                          <li class="menu-item-has-children <?php if($page_id == "facilities"){ echo "active"; } ?>">
-                                          <a href="facilities.php">Facilities</a></li>
-                                          
+                                                                             
                                           <li class="menu-item-has-children <?php if($page_id == "gallery"){ echo "active"; } ?>">
                                           <a href="gallery.php">Gallery</a></li>
                                           

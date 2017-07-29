@@ -200,12 +200,7 @@ $page_id="gallery";
                 </div>
               </div>
             </div>
-            <div class="row">
-                <div class="col-md-12 text-center mt-100 view-more">
-                    <a href="readmore.php" class="btn-prime tri-b fz-15">View More</a>
-                </div>
             </div>
-          </div>
         </section>
 
 
