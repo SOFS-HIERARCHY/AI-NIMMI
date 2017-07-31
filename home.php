@@ -93,6 +93,47 @@ $page_id="home";
             </div>
         </section>
         
+        <section class="mt-150 mb-150">
+        <div class="container">
+          <div class="row">
+              <div class="col-md-12 text-center">
+                  <h3 class="text-uppercase black h-sep">At Anbu Illam, we provide high-quality, person-centered care that enables residents to live meaningful lives.</h3>
+                  <p class="fz-16 gray-666 mt-50"></p>
+              </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-4 r-event mt-50">              
+              <h4 class="mt-40 fz-15 text-semi-bold d-black">Daily assistance</h4>
+              <p class="lh-26 mt-20">Our trained team of care givers aids residents with their activities of daily living (e.g., walking, grooming and assistance with meals.)</p>
+               </div>
+            <div class="col-md-4 r-event mt-50">              
+              <h4 class="mt-40 fz-15 text-semi-bold d-black">24 X 7 care</h4>
+             <p class="lh-26 mt-20">Day and night shifts as well as a live-in facility manager ensures that care givers are available around the clock to manage emergencies.</p>
+              </div>
+              <div class="col-md-4 r-event mt-50">              
+              <h4 class="mt-40 fz-15 text-semi-bold d-black">Nursing Care</h4>
+              <p class="lh-26 mt-20">Our facility nurses provide basic nursing care for those who need it including Ryle's tube feeding, bed sore management, catheterization, cannulization, wound dressing etc.</p>
+              </div>
+              </div>
+              <div class="row">
+            <div class="col-md-4 r-event mt-50">              
+              <h4 class="mt-40 fz-15 text-semi-bold d-black">Social engagement</h4>
+              <p class="lh-26 mt-20">We provide a supportive atmosphere, frequent one-to-one attention, and a calendar full of activities to ensure each resident is socially engaged.</p>
+              </div>
+           <div class="col-md-4 r-event mt-50">              
+              <h4 class="mt-40 fz-15 text-semi-bold d-black">Nutritious meals</h4>
+              <p class="lh-26 mt-20">We serve nutritious and delicious Indian meals, snacks and tea. We also provide regular housekeeping and laundry services.</p>
+              </div>
+            <div class="col-md-4 r-event mt-50">              
+              <h4 class="mt-40 fz-15 text-semi-bold d-black">Dementia Care</h4>
+              <p class="lh-26 mt-20">We provide a specialized dementia care program that focuses on emotional well being and symptom management through non pharmacological approaches.</p>
+              </div>              
+          </div>
+           </div>
+        </div>
+      </section>
+        
         <section class="recent-causes gray-f9f9-bg">
             <div class="container">
                 <div class="row">
