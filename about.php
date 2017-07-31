@@ -53,15 +53,16 @@ $page_id="about";
 	          <p class="fz-15 gray-777 lh-28 mt-15">Whereas the Author of the trust is desirous of creating public charitable trust to carry out certain charitable objects hereinafter mentioned for the benefit of the General public.
               </p>
               </div>
-                   
+              
             <div class="container">
               <img class="img-responsive pull-right t-contact-img" src="img/anbu.jpg" alt="">
               </div>
               </div>
                </div>
                </section>
-               <section class="mt-150 about-us-main mb-150">
-        <div class="container">
+               
+         <section class="mt-150 about-us-main mb-150">
+         <div class="container">
           <div class="row">
             <div class="col-md-12">
               <h4 class="d-black lh-33 h-sep">PURPOSE AND OBJECTIVES</h4>
@@ -96,19 +97,43 @@ $page_id="about";
               <div class="container">
             <div class="col-md-6 cancer">
                   <h4 class="d-black lh-33 h-sep">Board of Trustees</h4>
-                      <p class="lh-28 gray-777 fz-15 mt-30">Thiru. J.Venkatachalam, S/o.S.Jeyaramalingam, aged about 61 years,</p>
-                      <p class="fz-15 lh-28">Tmt. V.Padmajothi, W/O.J.Venkatachalam, aged about 57 years</p>
-                      <p class="fz-15 lh-28">Thiru. V.Arulmozhi, S/o J.Venkatachalam, aged about 35 years</p>
-                      <p class="fz-15 lh-28">Tmt. A.Gomathi, W/o V.Anbumozhi, aged about 27 years</p>
-                      <p class="fz-15 lh-28">Tmt. S.Vijayalakashmi, W/o.S.Sivanathan, aged about 45 years</p>
-                      
+                      <p class="fz-15 gray-777 lh-28 mt-30">Tmt. V.Padmajothi, W/O.J.Venkatachalam, aged about 57 years</p>
+                      <p class="fz-15 gray-777 lh-28 mt-15">Thiru. V.Arulmozhi, S/o J.Venkatachalam, aged about 35 years</p>
+                      <p class="fz-15 gray-777 lh-28 mt-15">Tmt. A.Gomathi, W/o V.Anbumozhi, aged about 27 years</p>
+                      </div>
+                  </div>
+                   </section> 
                    
-                </div>
-                  </div>
-                  </div>
-                </div>
-              </div>
-            </section>  
+            <section class="mt-50 about-us-main mb-50">
+              <div class="container">
+            <div class="col-md-12">
+                  <h4 class="d-black lh-33 h-sep">Future Plan</h4>
+                      <p class="fz-15 gray-777 lh-28 mt-30">We are also engaged in various welfare programmes for the aged, disabled, women and the destitute including the rehabilitation service for the homeless and the aged.</p>
+                      <p class="fz-15 gray-777 lh-28 mt-15">We also aim to establish educational institutions & hostels to help the community in general, and the weaker sections of the society in particular.</p>
+                       </div>
+                    </div>
+                    </section>
+           <section class="mt-50 about-us-main mb-50">   
+      		<div class="row-fluid">
+            	<div class="container">
+            	<div class="col-md-12">
+                       <h4 class="d-black lh-33 h-sep">Future Plans for the Home:</h4>
+                         <ul class="list list--secondary">
+			             <li><a class="fa fa-check gray-777 lh-28 mt-30">  Hospital</a></li>
+			             <li><a class="fa fa-check gray-777 lh-28 mt-15">  Dialysis Centre</a></li>
+			             <li><a class="fa fa-check gray-777 lh-28 mt-15">  Yoga Centre</a></li>
+			             <li><a class="fa fa-check gray-777 lh-28 mt-15">  Fully-Equipped Ambulance</a></li>
+			             <li><a class="fa fa-check gray-777 lh-28 mt-15">  Generator</a></li>
+			             <li><a class="fa fa-check gray-777 lh-28 mt-15">  Safety Cots, with Foam Beds</a></li>
+			             <li><a class="fa fa-check gray-777 lh-28 mt-15">  General Medicines</a></li>
+			            </ul> 
+			            </div>
+			            </div>             
+			  </div>    
+              </section>
+               
+                    
+               
         <section class="trust-o">
             <div class="container">
                 <div class="row">
