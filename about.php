@@ -55,7 +55,7 @@ $page_id="about";
               </div>
               
             <div class="container">
-              <img class="img-responsive pull-right t-contact-img" src="img/anbu.jpg" alt="">
+              <img class="img-responsive pull-right t-contact-img" src="img/p11.jpg" alt="">
               </div>
               </div>
                </div>

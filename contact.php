@@ -37,7 +37,7 @@ $page_id="contact";
         
         
         <div class="page-title contact-title text-center">
-          <h2 class="text-extra-bold white text-uppercase">Conatct Us</h2>
+          <h2 class="text-extra-bold white text-uppercase">Contact Us</h2>
           <div class="page-location text-center display-ib">
             <span class="ubuntu fz-14 green-5c">Home   <i class="gray-e9">/</i>   Contact  </span>
           </div>

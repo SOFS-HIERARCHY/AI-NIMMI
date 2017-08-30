@@ -35,15 +35,15 @@
             <div class="main-slider">
                 <div class="item">
                     <div class="main-slider-img position-r">
-                        <img src="img/s1.jpg" alt="">
+                        <img src="img/page1.jpg" alt="">
                         <div class="overlay"></div>
                         <div class="main-slider-content">
-                            <h2 class="lora fz-20 white text-bold text-italic" >Save the Children</h2>
+                            <!-- <h2 class="lora fz-20 white text-bold text-italic" >Save the Children</h2>
                             <h3 class="white text-uppercase mt-25 position-r">Knowledge will bring you the <br>opportunity to make a difference.</h3>
                             <h4 class="lora fz-18 white text-bold text-italic mt-30">Volunteers do not Necessarily have the Time, They Just have the Heart.</h4>
                             <div class="mt-30">
                                 <a class="martel fz-14 text-bold" href="#">LEARN MORE <i class="fa fa-caret-right"></i></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -68,7 +68,7 @@
                            <p class="fz-15 gray-777 lh-28 mt-15">'ANBU ILLAM' trust is made on this 30th day of May 2001 between Thiru J.VENKATACHALAM, S/O S.A.Jeyeramalingam aged about 61 years residing at Samudram (Post), Chinnapampatti (Via), Idappadi (Taluk), Salem (District), Tamilnadu here in after called 'Author of the Trust' of the one part</p>
                            <p class="fz-15 gray-777 lh-28 mt-15">Thirumathi V.PADMAJOTHI aged about 57 years W/O J.Venkatachalam, Samudram (Post), Chinnapampatti (Via), Idappadi (Taluk), Salem (District), Tamilnadu representing the first trustees of the second part.</p>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <!-- <div class="col-md-6 col-sm-6">
                         <div class="count-down">
                             <div class="count-header clearfix">
                                 <div class="pull-left">
@@ -84,7 +84,7 @@
                                 <a class="text-uppercase martel fz-12" href="#">Join Now</a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>

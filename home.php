@@ -39,15 +39,15 @@ $page_id="home";
             <div class="main-slider">
                 <div class="item">
                     <div class="main-slider-img position-r">
-                        <img src="img/s1.jpg" alt="">
+                        <img src="img/page1.jpg" alt="">
                         <div class="overlay"></div>
                         <div class="main-slider-content">
-                            <h2 class="lora fz-20 white text-bold text-italic" >Save the Children</h2>
+                            <!-- <h2 class="lora fz-20 white text-bold text-italic" >Save the Children</h2>
                             <h3 class="white text-uppercase mt-25 position-r">Knowledge will bring you the <br>opportunity to make a difference.</h3>
                             <h4 class="lora fz-18 white text-bold text-italic mt-30">Volunteers do not Necessarily have the Time, They Just have the Heart.</h4>
                             <div class="mt-30">
                                 <a class="martel fz-14 text-bold" href="#">LEARN MORE <i class="fa fa-caret-right"></i></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

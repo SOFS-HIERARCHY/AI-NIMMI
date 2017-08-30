@@ -46,7 +46,7 @@ $page_id="gallery";
           <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h3 class=" black h-sep">Recent  <span class="text-ultra-bold">Works</span> </h3>
+                    <h3 class=" black h-sep"><span class="text-ultra-bold">Gallery</span> </h3>
                     <p class="fz-16 gray-666 mt-50">Our charity helps those people who have no hope</p>
                 </div>
             </div>
@@ -60,7 +60,6 @@ $page_id="gallery";
                       <img data-featherlight="img/g1.jpg" src="img/locked.png" alt="">
                     </div>
                   </div>
-                  <h5 class="text-semi-bold mt-30">Child Care Donation</h5>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6 mt-50 text-center">
@@ -72,7 +71,6 @@ $page_id="gallery";
                       <img data-featherlight="img/g2.jpg" src="img/locked.png" alt="">
                     </div>
                   </div>
-                  <h5 class="text-semi-bold mt-30">Shelter Fund Raising</h5>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6 mt-50 text-center">
@@ -84,7 +82,6 @@ $page_id="gallery";
                       <img data-featherlight="img/g3.jpg" src="img/locked.png" alt="">
                     </div>
                   </div>
-                  <h5 class="text-semi-bold mt-30">Rural Education Camp</h5>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6 mt-50 text-center">
@@ -96,7 +93,6 @@ $page_id="gallery";
                       <img data-featherlight="img/g4.jpg" src="img/locked.png" alt="">
                     </div>
                   </div>
-                  <h5 class="text-semi-bold mt-30">Volunteer Meet</h5>
                 </div>
               </div>
             </div>
@@ -110,7 +106,6 @@ $page_id="gallery";
                       <img data-featherlight="img/g5.jpg" src="img/locked.png" alt="">
                     </div>
                   </div>
-                  <h5 class="text-semi-bold mt-30">Adoption Program</h5>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6 mt-50 text-center">
@@ -122,7 +117,6 @@ $page_id="gallery";
                       <img data-featherlight="img/g6.jpg" src="img/locked.png" alt="">
                     </div>
                   </div>
-                  <h5 class="text-semi-bold mt-30">Save Africa</h5>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6 mt-50 text-center">
@@ -134,7 +128,6 @@ $page_id="gallery";
                       <img data-featherlight="img/g7.jpg" src="img/locked.png" alt="">
                     </div>
                   </div>
-                  <h5 class="text-semi-bold mt-30">Help Disabled</h5>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6 mt-50 text-center">
@@ -146,7 +139,6 @@ $page_id="gallery";
                       <img data-featherlight="img/g8.jpg" src="img/locked.png" alt="">
                     </div>
                   </div>
-                  <h5 class="text-semi-bold mt-30">Food Sponsor</h5>
                 </div>
               </div>
             </div>
@@ -160,7 +152,6 @@ $page_id="gallery";
                       <img data-featherlight="img/g9.jpg" src="img/locked.png" alt="">
                     </div>
                   </div>
-                  <h5 class="text-semi-bold mt-30">Health Checkup</h5>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6 mt-50 text-center">
@@ -172,7 +163,6 @@ $page_id="gallery";
                       <img data-featherlight="img/g10.jpg" src="img/locked.png" alt="">
                     </div>
                   </div>
-                  <h5 class="text-semi-bold mt-30">Cause Marathon</h5>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6 mt-50 text-center">
@@ -184,7 +174,6 @@ $page_id="gallery";
                       <img data-featherlight="img/g11.jpg" src="img/locked.png" alt="">
                     </div>
                   </div>
-                  <h5 class="text-semi-bold mt-30">Blood Donation</h5>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6 mt-50 text-center">
@@ -196,7 +185,6 @@ $page_id="gallery";
                       <img data-featherlight="img/g12.jpg" src="img/locked.png" alt="">
                     </div>
                   </div>
-                  <h5 class="text-semi-bold mt-30">Knowledge Sharing</h5>
                 </div>
               </div>
             </div>
