@@ -213,25 +213,25 @@ $page_id="services";
 
           <div class="row">
             <div class="col-md-6 r-event mt-70">
-              <img src="img/2.jpg" alt="" class="img-responsive">
+              <img src="img/service1.jpg" alt="" class="img-responsive">
               <h4 class="mt-40 fz-15 text-semi-bold d-black">The International Old Age People's Day</h4>
               <p class="lh-26 mt-20">'The international Old Age People's day' was celebrated on october 1 in our home it self. Senior citizens are the persons who begin to lead the second child hood in their life. A resolution passed by the trust management with all the old age peoples of our home that sustain environment and also for the next younger generation those who really need the experienced advises from the senior peoples. They all should be comforted by the loving words to lead the remaining life happily.</p>
                </div>
             <div class="col-md-6 r-event mt-70">
-              <img src="img/3.jpg" alt="" class="img-responsive">
+              <img src="img/service2.jpg" alt="" class="img-responsive">
               <h4 class="mt-40 fz-15 text-semi-bold d-black">The International Women's Day</h4>
              <p class="lh-26 mt-20">'The International Women's day' was celebrated completely by female members on March 8. 'Panchayat Self-Help Finance Group' visited our home and they gave some lively consulting and comfort advises to our peoples to lead the lively and healthy life in to the home with unity. And all members of that self-help group having a group discussion with the women's of our home about women empowerment.</p>
               </div>
           </div>
           <div class="row">
             <div class="col-md-6 r-event mt-80">
-              <img src="img/4.jpg" alt="" class="img-responsive">
+              <img src="img/service3.jpg" alt="" class="img-responsive">
               <h4 class="mt-40 fz-15 text-semi-bold d-black">National Days</h4>
               <p class="lh-26 mt-20">Every year we are celebrating Independence Day and republic day with our old age home peoples and with a chief guest who may be a teacher or else a famous person in our locality.
               </p>
               </div>
             <div class="col-md-6 r-event mt-80">
-              <img src="img/5.jpg" alt="" class="img-responsive">
+              <img src="img/service4.jpg" alt="" class="img-responsive">
               <h4 class="mt-40 fz-15 text-semi-bold d-black">National Days</h4>
               <p class="lh-26 mt-20">Sweets were distributed to old age people and children of this encircle area. Unlike the government institutions this celebration will be like a get together for old age peoples and feel like they have care takers here itself.</p>
               </div>
@@ -289,166 +289,7 @@ $page_id="services";
                 </div>
             </div>
         </section>
-        <section class="projects gray-f9f9-bg">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <h3 class=" black h-sep">OnGoing  <span class="text-ultra-bold">Projects</span> </h3>
-                        <p class="fz-16 gray-666 mt-50">Our charity helps those people who have no hope</p>
-                        <div class="p-filter-nav mt-30">
-                            <a href="javascript:" data-filter="all" class="filter ubuntu text-light">All</a>
-                            <a href="javascript:" data-filter=".edu" class="filter ubuntu text-light">Education</a>
-                            <a href="javascript:" data-filter=".health" class="filter ubuntu text-light">Healthcare</a>
-                            <a href="javascript:" data-filter=".live" class="filter ubuntu text-light">Livehood</a>
-                            <a href="javascript:" data-filter=".dis" class="filter ubuntu text-light">Disaster</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="container-fluid">
-                <div id="Container" class="mt-90">
-                    <div class="row">
-                        <div class="col-md-15 no-padding-left mix edu">
-                            <div class="project-img position-r">
-                                <img class="img-responsive" src="img/project1.jpg" alt="">
-                                <div class="project-hover">
-                                    <div class="project-hover-content">
-                                        <h5 class="white text-ultra-bold text-uppercase"><a class="white" href="#">Gift To Help Children</a></h5>
-                                        <div class="progress-status mt-25">
-                                            <div class="barWrapper">
-                                                <!-- <span class="progressText"><B>CSS3</B></span> -->
-                                                <div class="progress ">
-                                                  <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="78" aria-valuemin="10" aria-valuemax="100" style="">
-                                                     <span  class="popOver" data-toggle="tooltip" data-placement="bottom" title="78%"> </span>  
-                                                  </div>     
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="martel fz-12 text-semi-bold white text-uppercase pull-left">Goal $ 56,342</span>
-
-                                    </div>
-                                </div>
-                                <div class="project-details-overlay">
-                                    <h6 class="text-extra-bold white text-uppercase display-ib">Helping for Food</h6>
-                                    <a href="#" class="btn-prime tri-b text-uppercase">Donate</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-15 no-padding-left mix health">
-                            <div class="project-img position-r">
-                                <img class="img-responsive" src="img/project2.jpg" alt="">
-                                <div class="project-hover">
-                                    <div class="project-hover-content">
-                                        <h5 class="white text-ultra-bold text-uppercase"><a class="white" href="#">Gift To Help Children</a></h5>
-                                        <div class="progress-status mt-25">
-                                            <div class="barWrapper">
-                                                <!-- <span class="progressText"><B>CSS3</B></span> -->
-                                                <div class="progress ">
-                                                  <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="78" aria-valuemin="10" aria-valuemax="100" style="">
-                                                     <span  class="popOver" data-toggle="tooltip" data-placement="bottom" title="78%"> </span>  
-                                                  </div>     
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="martel fz-12 text-semi-bold white text-uppercase pull-left">Goal $ 56,342</span>
-                                
-                                    </div>
-                                </div>
-                                <div class="project-details-overlay">
-                                    <h6 class="text-extra-bold white text-uppercase display-ib">Helping for Food</h6>
-                                    <a href="#" class="btn-prime tri-b text-uppercase">Donate</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-15 no-padding-left mix live">
-                            <div class="project-img position-r">
-                                <img class="img-responsive" src="img/project3.jpg" alt="">
-                                <div class="project-hover">
-                                    <div class="project-hover-content">
-                                        <h5 class="white text-ultra-bold text-uppercase"><a class="white" href="#">Gift To Help Children</a></h5>
-                                        <div class="progress-status mt-25">
-                                            <div class="barWrapper">
-                                                <!-- <span class="progressText"><B>CSS3</B></span> -->
-                                                <div class="progress ">
-                                                  <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="78" aria-valuemin="10" aria-valuemax="100" style="">
-                                                     <span  class="popOver" data-toggle="tooltip" data-placement="bottom" title="78%"> </span>  
-                                                  </div>     
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="martel fz-12 text-semi-bold white text-uppercase pull-left">Goal $ 56,342</span>
-                                
-                                    </div>
-                                </div>
-                                <div class="project-details-overlay">
-                                    <h6 class="text-extra-bold white text-uppercase display-ib">Helping for Food</h6>
-                                    <a href="#" class="btn-prime tri-b text-uppercase">Donate</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-15 no-padding-left mix dis">
-                            <div class="project-img position-r">
-                                <img class="img-responsive" src="img/project4.jpg" alt="">
-                                <div class="project-hover">
-                                    <div class="project-hover-content">
-                                        <h5 class="white text-ultra-bold text-uppercase"><a class="white" href="#">Gift To Help Children</a></h5>
-                                        <div class="progress-status mt-25">
-                                            <div class="barWrapper">
-                                               <!--  <span class="progressText"><B>CSS3</B></span> -->
-                                                <div class="progress ">
-                                                  <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="78" aria-valuemin="10" aria-valuemax="100" style="">
-                                                     <span  class="popOver" data-toggle="tooltip" data-placement="bottom" title="78%"> </span>  
-                                                  </div>     
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="martel fz-12 text-semi-bold white text-uppercase pull-left">Goal $ 56,342</span>
-                                
-                                    </div>
-                                </div>
-                                <div class="project-details-overlay">
-                                    <h6 class="text-extra-bold white text-uppercase display-ib">Helping for Food</h6>
-                                    <a href="#" class="btn-prime tri-b text-uppercase">Donate</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-15 no-padding-left mix dis">
-                            <div class="project-img position-r">
-                                <img class="img-responsive" src="img/project5.jpg" alt="">
-                                <div class="project-hover">
-                                    <div class="project-hover-content">
-                                        <h5 class="white text-ultra-bold text-uppercase"><a class="white" href="#">Gift To Help Children</a></h5>
-                                        <div class="progress-status mt-25">
-                                            <div class="barWrapper">
-                                               <!--  <span class="progressText"><B>CSS3</B></span> -->
-                                                <div class="progress ">
-                                                  <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="78" aria-valuemin="10" aria-valuemax="100" style="">
-                                                     <span  class="popOver" data-toggle="tooltip" data-placement="bottom" title="78%"> </span>  
-                                                  </div>     
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="martel fz-12 text-semi-bold white text-uppercase pull-left">Goal $ 56,342</span>
-                                
-                                    </div>
-                                </div>
-                                <div class="project-details-overlay">
-                                    <h6 class="text-extra-bold white text-uppercase display-ib">Helping for Food</h6>
-                                    <a href="#" class="btn-prime tri-b text-uppercase">Donate</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12 text-center mt-100 view-more">
-                        <a href="#" class="btn-prime tri-b fz-15">View More</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <footer>
+      <footer>
             
              <?php include_once './includes/nav.php'; ?>
             <!-- Right side column. Contains the navbar and content of the page -->

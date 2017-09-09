@@ -148,34 +148,7 @@ $page_id="about";
                             <h5 class="karala white text-bold mt-50">We Help 70,0000 Childs, turn tears to smiles. </h5>
                             <p class="white mt-15">Aliquip ex ea cmodo consequat. Duis aute irure dolor in repr ehenderit sachanathaainas voluptate velit esse cillum...</p>
                         </div>
-                        <div class="fund-process mt-30 display-ib">
-                            <h6 class="white text-bold">FundRasing Process</h6>
-                            <div class="fund-state mt-40">
-                                <div class="barWrapper">
-                                    <!-- <span class="progressText"><B>CSS3</B></span> -->
-                                    <div class="progress ">
-                                      <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="10" aria-valuemax="100" style="">
-                                         <span  class="popOver" data-toggle="tooltip" data-placement="top" title="60%"> </span>  
-                                      </div>
-                                      
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="fund-details">
-                                <div class="detail-goal text-center display-ib">
-                                    <img src="img/raised.png" alt="">
-                                    <span class="fz-13 white martel text-bold display-block mt-10">Raised $ 5,876</span>
-                                </div>
-                                <div class="detail-goal text-center display-ib">
-                                    <img src="img/goal.png" alt="">
-                                    <span class="fz-13 white martel text-bold display-block mt-10">Goal $ 65,873</span>
-                                </div>
-                                <div class="detail-goal text-center display-ib">
-                                    <img src="img/days.png" alt="">
-                                    <span class="fz-13 white martel text-bold display-block mt-10">Days Left 15</span>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>

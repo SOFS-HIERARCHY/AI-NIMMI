@@ -51,18 +51,19 @@ $page_id="contact";
                 <p class="fz-16 gray-666 mt-50">Our charity helps those people who have no hope</p>
 
                   <div class="mt-30" id="message"></div>
-                  <form id="contactform_forms" class="mt-20 checkout-form" method="post" action="#">
-                    <div class="row">
-                      <div class="col-md-6 mt-30"><input id="contact_name" type="text" name="contact_name" class="form-control" placeholder="First name"></div>
-                      <div class="col-md-6 mt-30"><input id="contact_email" type="email" name="contact_email" class="form-control" placeholder="Email address"></div>
+				   <form role="contact" action="contact_actions.php" enctype="multipart/form-data" method="post" autocomplete="off">
+					<input type="hidden" name="mode" value="user">               
+				     <div class="row">
+                      <div class="col-md-6 mt-30"><input id="name" type="text" name="name" class="form-control" placeholder="First name"></div>
+                      <div class="col-md-6 mt-30"><input id="address" type="email" name="address" class="form-control" placeholder="Email address"></div>
                     </div>
                     <div class="row">
-                      <div class="col-md-6 mt-30"><input id="contact_phone" type="text" name="contact_phone" class="form-control" placeholder="Phone"></div>
-                      <div class="col-md-6 mt-30"><input id="contact_website" type="text" name="contact_website" class="form-control" placeholder="Your website"></div>
+                      <div class="col-md-6 mt-30"><input id="phone" type="text" name="phone" class="form-control" placeholder="Phone Number"></div>
+                      <div class="col-md-6 mt-30"><input id="website" type="text" name="website" class="form-control" placeholder="Your website"></div>
                     </div>
-                    <textarea id="contact_message" rows="10" name="contact_message" class="mt-30 form-control" placeholder="Write message"></textarea>
+                    <textarea id="message" rows="10" name="message" class="mt-30 form-control" placeholder="Write message"></textarea>
                     <div class="mt-50 submit">
-                      <input type="submit" class="martel text-extra-bold text-uppercase fz-14" value="Send message">
+                      <input type="submit" class="martel text-extra-bold text-uppercase fz-14" name="actions">
                     </div>
                   </form>
                      

@@ -57,17 +57,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6">
-                                <div class="footer-d-v clearfix">
-                                    <div class="pull-left">
-                                        <h5 class="fz-18 text-bold">Join As Volunteer</h5>
-                                        <span class="fz-14 ubuntu gray-777 display-block mt-15">Might as well say Would you Could be you be mine? </span>
-                                    </div>
-                                    <div class="pull-right mt-6">
-                                        <a class="btn-prime tri-b text-uppercase" href="#">Volunteer</a>
-                                    </div>
-                                </div>
-                            </div>
+                        
                         </div>
                     </div>
                 </div>
